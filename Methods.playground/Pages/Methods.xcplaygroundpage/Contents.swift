@@ -1,6 +1,6 @@
 //: ![Swift](swift-logo.png)
 //: Swift v5.7 [official docs](https://docs.swift.org/swift-book/LanguageGuide/Methods.html)
-//: # Methods
+//: # 11. Methods
 //:
 //:
 //: Methods are functions that are associated with a particular type. Classes, structures, and enumerations can all define instance methods, which encapsulate specific tasks and functionality for working with an instance of a given type. Classes, structures, and enumerations can also define type methods, which are associated with the type itself. Type methods are similar to class methods in Objective-C.
